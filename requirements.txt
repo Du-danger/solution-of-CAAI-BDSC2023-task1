@@ -1,0 +1,4 @@
+numpy==1.24.2
+ordered_set==4.1.0
+pandas==2.0.0
+torch==2.0.0
